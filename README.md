@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Yanyang Li, a third-year Ph.D. student at CUHK LaVi Lab, supervised by Prof. [Liwei Wang](https://lwwangcse.github.io/) and Prof. [Michael Lyu](https://www.cse.cuhk.edu.hk/lyu/).
+
+- 🔭 I'm interested in Machine Learning and NLP.
+- 🌱 Find my up-to-date publications in [**Google Scholar**](https://scholar.google.com/citations?user=bojU9LoAAAAJ)! Some of my proud leading works:
+  
+  <details><summary><b>Large Language Model (LLM) Evaluation</b></summary>
+  
+  * [CLEVA [EMNLP 2023 Demo]](https://github.com/LaVi-Lab/CLEVA): a Chinese LLM evaluation platform with significant efforts in building a comprehensive taxonomy, preventing data contamination and standardizing evaluation workflow.
+  </details>
+  
+  <details><summary><b>LLM + Knowledge</b></summary>
+    
+  * [PLATO-KAG+ [EMNLP 2022]](https://github.com/lyy1994/PLM_as_KB): investigating knowledge learn by LLM and how it could be applied to downstream tasks explictly.
+  </details>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lyy1994)
