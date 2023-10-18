@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyy1994" alt="lyy1994" /> </p>
+
 I am Yanyang Li, a third-year Ph.D. student at CUHK LaVi Lab, supervised by Prof. [Liwei Wang](https://lwwangcse.github.io/) and Prof. [Michael Lyu](https://www.cse.cuhk.edu.hk/lyu/).
 
 - 🔭 I'm interested in Machine Learning and NLP.
@@ -29,5 +31,7 @@ I am Yanyang Li, a third-year Ph.D. student at CUHK LaVi Lab, supervised by Prof
     
   * [PLATO-KAG+ [EMNLP 2022]](https://github.com/lyy1994/PLM_as_KB): investigating knowledge learn by LLM and how it could be applied to downstream tasks explictly.
   </details>
+
+### Profile Summary
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lyy1994)
