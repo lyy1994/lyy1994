@@ -34,4 +34,4 @@ I am Yanyang Li, a third-year Ph.D. student at CUHK LaVi Lab, supervised by Prof
 
 ### Profile Summary
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=lyy1994)
+![Github stats](https://github-readme-stats.vercel.app/api?username=lyy1994&show_icons=true)
