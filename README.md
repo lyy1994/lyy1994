@@ -29,7 +29,7 @@ I am Yanyang Li, a third-year Ph.D. student at CUHK LaVi Lab, supervised by Prof
   
   <details><summary><b>LLM + Knowledge</b></summary>
     
-  * [PLATO-KAG+ [EMNLP 2022]](https://github.com/lyy1994/PLM_as_KB): investigating knowledge learn by LLM and how it could be applied to downstream tasks explictly.
+  * [PLATO-KAG+ [EMNLP 2022]](https://github.com/lyy1994/PLM_as_KB/tree/main/projects/plm_as_kb): investigating knowledge learned by LLM and how it could be applied to downstream tasks explicitly.
   </details>
 
 ### Profile Summary
